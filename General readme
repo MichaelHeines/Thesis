@@ -1,0 +1,10 @@
+This github page contains all of the programs I created for my master thesis in the academic year 2020-2021
+
+The programs of the semi analytical model, the numerical recoil analysis (NRA) and the full numerical model (FNM) are provided here, as well as the analysis of the lead castle setup and the coincidence setup. Some small programs were also written for the alpha chamber analysis, but the analysis itself was performed by J.D. Johnson.
+
+The c++ (root) files were run on the cluster, where an automatic namespace is incorporated. This convenient to use, but is generally not good practise.
+
+
+
+
+© Copyright by KU LeuvenWithout written permission of the promoters and the authors it is forbidden to reproduce or adapt in any form or by any means any part of this publication. Requests for obtaining the right to reproduce or utilize parts of this publication should be addressed to KU Leuven, FaculteitWetenschappen, Celestijnenlaan 200H - bus 2100, 3001 Leuven (Heverlee), Telephone +32 1632 14 01 .A written permission of the promoter is also required to use the methods, products, schematics and programs described in this work for industrial or commercial use, and for submitting thispublication in scientific contests.
