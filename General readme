@@ -6,5 +6,7 @@ The c++ (root) files were run on the cluster, where an automatic namespace is in
 
 
 
+DISCLAIMER: This code was written for the analysis of an experimental campaign at CERN-MEDICIS. The author cannot be held responsible for any shortcomings of the code.
+© Copyright by KU LeuvenWithout written permission of the promoters and the authors it is forbidden to reproduce or adapt in any form or by any means any part of this publication. Requests for obtaining the right to reproduce or utilize parts of this publication should be addressed to KU Leuven, FaculteitWetenschappen, Celestijnenlaan 200H - bus 2100, 3001 Leuven (Heverlee), Telephone +32 1632 14 01 .A written permission of the promoter is also required to use the methods, products, schematics and programs described in this work for industrial or commercial use, and for submitting this publication in scientific contests.
 
-© Copyright by KU LeuvenWithout written permission of the promoters and the authors it is forbidden to reproduce or adapt in any form or by any means any part of this publication. Requests for obtaining the right to reproduce or utilize parts of this publication should be addressed to KU Leuven, FaculteitWetenschappen, Celestijnenlaan 200H - bus 2100, 3001 Leuven (Heverlee), Telephone +32 1632 14 01 .A written permission of the promoter is also required to use the methods, products, schematics and programs described in this work for industrial or commercial use, and for submitting thispublication in scientific contests.
+
